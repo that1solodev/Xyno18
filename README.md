@@ -19,5 +19,4 @@
 - [ ] Notification Manager
 
 ## Support me
-
-<paypal.me/krygo18>
+[PayPal](paypal.me/krygo18)
