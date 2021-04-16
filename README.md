@@ -17,3 +17,7 @@
 - [ ] Password Storage System
 - [ ] Task Tracker
 - [ ] Notification Manager
+
+## Support me
+
+<paypal.me/krygo18>
