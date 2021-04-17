@@ -19,4 +19,5 @@
 - [ ] Notification Manager
 
 ## Support me
-[PayPal](paypal.me/krygo18)
+
+<a href = "https://www.paypal.com/paypalme/krygo18"><img align="left" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" alt="Donate to me"></a>
