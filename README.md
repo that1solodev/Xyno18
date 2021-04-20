@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m that1solodev
 - 👀 I like to code stuff. Python is my favourite coding language
-- 🌱 I alos like to study and tryout new technologies and implementing them in my projects
+- :books: I alos like to study and tryout new technologies and implementing them in my projects
 - 💞 I am open for work as a freelancer python developer. Contact me at ✉ that1solodev@gmail.com
 <br/>
 
