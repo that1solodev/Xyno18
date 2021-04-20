@@ -19,5 +19,5 @@
 - [ ] Notification Manager
 
 ## Support me
-
+<a href = "https://www.buymeacoffee.com/that1solodev"><img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-3.svg" alt="Buy me a coffee"></a>
 <a href = "https://www.paypal.com/paypalme/krygo18"><img align="left" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" alt="Donate to me"></a>
